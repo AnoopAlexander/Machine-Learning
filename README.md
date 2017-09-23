@@ -4,3 +4,4 @@ Repository of machine learning exercises and concepts
 
 1. Linear regression for prediction
 2. Logistic regression for classification
+3. KNN algorithm for classification

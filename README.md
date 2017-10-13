@@ -9,3 +9,4 @@ Repository of machine learning exercises and concepts
 5. Classification of iris dataset using Support Vector machines
 6. Natural Language Processing Yelp data to classify as 1 or 5 star review.
 7. Kmeans clustering to segment universities as private or public based on given features. (Unsupervised)
+8. Principal component analysis on breast cancer data set for feature reduction to assist in classifying benign and malignant cases.
